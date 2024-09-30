@@ -1,0 +1,40 @@
+/* suggest me  */
+*{
+	margin-left: 0px;
+	padding:0px;
+	
+}
+
+body{
+	
+	background-image: url('../images/beauty.jpg');
+    
+    background-repeat:no-repeat;
+	background-attachment: fixed;
+	/* show full image */
+	background-size: contain; 
+	background-position: center;
+	
+	
+	html, body{
+		height: 100%;
+		width: 100%;
+	}
+	;
+
+}
+.box{
+	width: 50vw; 
+	height: 30vh; 
+	background-color: #fbd7d7;
+	/* background-color: #0d0d0d; */
+	margin: 5rem;
+	padding: 2rem;
+	border: 3px solid rgb(27, 25, 25);
+	border-radius: 10px;
+	box-shadow: 20px 20px  30px 50px rgba(250, 229, 137, 0.5);
+	/* border-collapse: collapse; */
+	font-size: 1.5rem;
+	/* color:white; */
+	
+}
